@@ -3,6 +3,20 @@
     margin: 0 auto;
 }
 
+.site-title img {
+    max-width: 100%;
+}
+
 main {
     font-size: 10pt;
+}
+
+.h-card,
+.post-hidden-author,
+.post-date {
+    display: inline;
+}
+
+.post-hidden-author::before {
+    content: "posted by "
 }
