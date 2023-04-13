@@ -66,4 +66,4 @@ Lastly we have a mature community and to try and keep it that way we prefer our 
 So if you wish to chat about anything our little guild has to offer,
 or would like some more information, speak to one of our officers.
 
-Belar (GM), Evànne, Ilanas, Kalfrice and Endarion
+Belar (GM), Evànne, Kalfrice and Endarion

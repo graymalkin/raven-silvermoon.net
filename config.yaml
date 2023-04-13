@@ -21,8 +21,21 @@ menu:
     title: About Us
     url: /about-us/
     weight: 3
+  - identifier: progress
+    name: Progress
+    title: Progress
+    url: /progress/
+  - identifier: cookbook
+    name: Raven Cookbook
+    title: Raven Cookbook
+    url: /cookbook.pdf
 
 params:
   style: auto-without-switcher
   customCSS:
     - css/additional.css
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
