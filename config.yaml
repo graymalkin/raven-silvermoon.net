@@ -1,6 +1,7 @@
 baseURL: 'https://raven-silvermoon.eu'
 languageCode: 'en-gb'
-title: 'Raven Silvermoon-EU'
+title: 'Raven Silvermoon EU'
+params:
 theme: ["github.com/Mitrichius/hugo-theme-anubis"]
 paginate: 10
 
@@ -31,6 +32,10 @@ menu:
     url: /cookbook.pdf
 
 params:
+  description: >
+    Raven is a social raiding guild on the Silvermoon EU server, Alliance side. We have been around since 2005. Our primary goal is to get the 'Ahead of the Curve' achievement every single raid tier, while having lots of fun.
+  og_image: /raven.png
+  sitename: Raven Silvermoon EU
   style: auto-without-switcher
   customCSS:
     - css/additional.css
