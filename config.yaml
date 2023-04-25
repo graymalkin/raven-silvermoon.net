@@ -12,16 +12,19 @@ menu:
     title: Home
     url: /
     weight: 1
-  - identifier: blog
-    name: Blog
-    title: Blog
+  - identifier: news
+    name: News
+    title: News
     url: /posts/
     weight: 2
+  - identifier: officer-decisions
+    name: Officer Decisions
+    title: Officer Decisions
+    url: /officer-decisions/
   - identifier: about-us
     name: About Us
     title: About Us
     url: /about-us/
-    weight: 3
   - identifier: progress
     name: Progress
     title: Progress
@@ -39,6 +42,8 @@ params:
   style: auto-without-switcher
   customCSS:
     - css/additional.css
+  mainSections:
+    - blog
 
 markup:
   goldmark:
