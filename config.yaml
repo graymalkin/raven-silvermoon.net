@@ -39,7 +39,8 @@ params:
     Raven is a social raiding guild on the Silvermoon EU server, Alliance side. We have been around since 2005. Our primary goal is to get the 'Ahead of the Curve' achievement every single raid tier, while having lots of fun.
   image: https://raven-silvermoon.net/raven.png
   title: Raven Silvermoon EU
-  style: auto-without-switcher
+  style: dark-without-switcher
+  readMore: true
   customCSS:
     - css/additional.css
   mainSections:
