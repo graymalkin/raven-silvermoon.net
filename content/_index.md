@@ -5,7 +5,7 @@
 
 Raven is a social raiding guild on the Silvermoon EU server, Alliance side. We have been around since 2005. Our primary goal is to get the 'Ahead of the Curve' achievement every single raid tier, while having lots of fun.
 
-Raiding happens on 2 nights a week, Wednesday and Sunday, from 20:00 until 23:00 server time. Our community is mature and we prefer our members to be 18+, since we don't wish to be held responsible for the corruption of impressionable minds...
+Raiding happens on 2 nights a week, **Wednesday** and **Sunday**, **from 20:00 until 23:00** server time. Our community is mature and we prefer our members to be 18+, since we don't wish to be held responsible for the corruption of impressionable minds...
 
 There's a lot more activity in our guild than just two raids a week, however. If you are an altoholic, a Mythic+ junkie, an achievement hunter, a pet battle afficionado, an auction house mogul, a druid cook, a collector of either beautiful or terrifying transmog sets... you will find like-minded friends in Raven. In between raid tiers, we might even dip our toes in other games. We are always welcoming new members.
 

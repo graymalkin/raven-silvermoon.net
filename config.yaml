@@ -21,18 +21,27 @@ menu:
     name: Officer Decisions
     title: Officer Decisions
     url: /officer-decisions/
+    weight: 3
   - identifier: about-us
     name: About Us
     title: About Us
     url: /about-us/
+    weight: 4
   - identifier: progress
     name: Progress
     title: Progress
     url: /progress/
+    weight: 5
   - identifier: cookbook
     name: Raven Cookbook
     title: Raven Cookbook
     url: /cookbook.pdf
+    weight: 6
+  - identifier: join
+    name: Join Raven
+    title: Join Raven
+    url: /join-us/
+    weight: 7
 
 params:
   description: >
