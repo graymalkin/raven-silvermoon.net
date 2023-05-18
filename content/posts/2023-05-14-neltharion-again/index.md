@@ -1,5 +1,5 @@
 ---
-date: 2023-02-12
+date: 2023-05-14
 title: Cleared normal, and went to a firework show! (1/9 HC)
 author: Kalfrice
 type: blog
