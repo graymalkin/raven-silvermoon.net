@@ -14,3 +14,7 @@ Check us out on wowprogress or raider.io. If you wish to join Raven, or would li
 One more thing... You must be prepared to leave your sanity at the door.
 
 ***
+
+<iframe width=550 height=312 src="https://raider.io/widgets/boss-progress?raid=latest&name_style=logo&difficulty=latest&region=eu&realm=silvermoon&guild=Raven&boss=latest&period=until_kill&orientation=rect&hide=&chromargb=transparent&theme=dragonflight" style="border: none; margin: 0 auto; display: block"></iframe>
+
+***
